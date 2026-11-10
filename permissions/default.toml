@@ -1,0 +1,3 @@
+[default]
+description = "Default permissions for add-to-calendar plugin"
+permissions = ["allow-add-event"]
